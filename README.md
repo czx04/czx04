@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./wp7664856.png" align="center" style="width: 100%" />
 </div>  
-## <div align="center">About me</div>  
+<div align="center">About me</div>  
   
 
  <div align="center">🔭 My name is Du Van Hung</div>  
